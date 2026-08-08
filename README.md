@@ -101,11 +101,12 @@ class Asif:
 
 <div align="center">
 
-<img height="180" src="./profile/stats.svg"/>
-
-<br>
-
-<img src="./profile/streak-stats.svg" alt="GitHub Streak"/>
+<table>
+<tr>
+<td><img height="180" src="./profile/stats.svg"/></td>
+<td><img height="180" src="./profile/streak-stats.svg" alt="GitHub Streak"/></td>
+</tr>
+</table>
 
 </div>
 

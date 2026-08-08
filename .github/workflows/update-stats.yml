@@ -28,7 +28,18 @@ jobs:
         with:
           USERNAME: Asif404
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
-          THEME: default
+          THEME: dark
+          BACKGROUND: "0D1117"
+          STROKE: "0D1117"
+          RING: "8B5CF6"
+          FIRE: "06B6D4"
+          CURR_STREAK_NUM: "ffffff"
+          SIDE_NUMS: "ffffff"
+          CURR_STREAK_LABEL: "8B5CF6"
+          DATES: "9ca3af"
+          HIDE_BORDER: "true"
+          CARD_WIDTH: "480"
+          CARD_HEIGHT: "180"
           OUTPUT_PATH: profile/streak-stats.svg
 
       - name: Commit cards
