@@ -101,8 +101,8 @@ class Asif:
 
 <div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=Asif404&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&count_private=true&include_all_commits=true"/>
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Asif404&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8"/>
+<img height="180" src="./profile/stats.svg"/>
+<img height="180" src="./profile/top-langs.svg"/>
 
 <br>
 
@@ -116,7 +116,7 @@ class Asif:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asif404&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=ffffff&area=true&area_color=6366F1count_private=true" alt="Contribution Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asif404&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=ffffff&area=true&area_color=6366F1&count_private=true" alt="Contribution Activity Graph" width="100%"/>
 
 </div>
 
