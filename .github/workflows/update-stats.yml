@@ -42,6 +42,10 @@ jobs:
           CARD_HEIGHT: "180"
           OUTPUT_PATH: profile/streak-stats.svg
 
+      - name: Add explicit dimensions to streak card
+        run: |
+          sed -i "s/viewBox='0 0 480 180'/width='480' height='180' viewBox='0 0 480 180'/" profile/streak-stats.svg
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
