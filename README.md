@@ -41,6 +41,20 @@ class Asif:
 
 ---
 
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asif404/Asif404/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asif404/Asif404/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Asif404/Asif404/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" width="100%"/>
+</picture>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -121,18 +135,6 @@ class Asif:
 </div>
 
 > 💡 The graph above renders your **real contribution history** automatically — commits, PRs, issues, and streaks update live from your GitHub activity.
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Asif404/Asif404/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" width="100%"/>
-
-<sub>⚙️ One-time setup needed — add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your <code>Asif404</code> repo to generate this animated snake from your real contribution grid.</sub>
-
-</div>
 
 ---
 
