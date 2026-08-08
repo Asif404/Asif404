@@ -102,11 +102,10 @@ class Asif:
 <div align="center">
 
 <img height="180" src="./profile/stats.svg"/>
-<img height="180" src="./profile/top-langs.svg"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asif404&theme=react&hide_border=true&background=0D1117&stroke=8B5CF6&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4" alt="GitHub Streak"/>
+<img src="./profile/streak-stats.svg" alt="GitHub Streak"/>
 
 </div>
 
