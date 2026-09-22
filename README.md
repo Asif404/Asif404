@@ -13,6 +13,19 @@
 </div>
 
 ---
+## Git Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asif404/Asif404/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asif404/Asif404/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Asif404/Asif404/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" width="100%"/>
+</picture>
+
+</div>
+
+---
 
 ## 🧑‍💻 About Me
 
@@ -38,20 +51,6 @@ class Asif:
 - 💬  Ask me about **Django, FastAPI, System Design & Docker**
 
 <br clear="right"/>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asif404/Asif404/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asif404/Asif404/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Asif404/Asif404/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" width="100%"/>
-</picture>
-
-</div>
 
 ---
 
